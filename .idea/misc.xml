@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.2555" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.2555" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/drawable-v24/ic_credit_card.xml" value="0.2225" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/drawable-v24/ic_favorites.xml" value="0.2225" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/drawable-v24/ic_fitness_center.xml" value="0.2225" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/drawable-v24/loginsignup_color_cursor.xml" value="0.226" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_all_features_page.xml" value="0.2" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_calculater_webview.xml" value="0.264" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_features.xml" value="0.4" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_mcq_webview.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_news_webview.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_notes1.xml" value="0.2359375" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_notes_webview.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_paper_webview.xml" value="0.24615384615384617" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_result1.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_sign.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_sign_up.xml" value="0.245136186770428" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_signin.xml" value="0.2359375" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_signup2.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_signup_and_signinpage.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_syllabus_webview.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_timetable_webview.xml" value="0.25" />
+        <entry key="..\:/androidappdata/MumbaiUniversityEngineeringStudyApp2/app/src/main/res/layout/activity_twopage.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mumbai University Engineering Study App</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">LOGIN</string>
+</resources>

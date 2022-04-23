@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447319624112",
+    "project_id": "mu-engineering-study-app-f41c0",
+    "storage_bucket": "mu-engineering-study-app-f41c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447319624112:android:348810eec00195364b6e75",
+        "android_client_info": {
+          "package_name": "com.examp.mumbaiuniversityengineeringstudyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447319624112-fqtqvpolm1iq2gfmsecj7vome5ad6nqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxLRW3NzVet37DI3c-RxKN8RyIdkN60s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447319624112-fqtqvpolm1iq2gfmsecj7vome5ad6nqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
