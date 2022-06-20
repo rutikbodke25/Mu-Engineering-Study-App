@@ -27,7 +27,7 @@ public class notes1 extends AppCompatActivity {
         WebView wv = (WebView) findViewById(R.id.webview);
 
         // add your link here
-        wv.loadUrl("https://drive.google.com/drive/folders/1KQcYWopRQTFj4_1xViO_7kb7ueQqTUr1?usp=sharing");
+        wv.loadUrl("https://drive.google.com/file/d/1vzKNGibfVDCQEYpWGkEs-BkYSLd_VUjf/view?usp=sharing");
         wv.setWebViewClient(new notes1.Client());
         WebSettings ws = wv.getSettings();
 

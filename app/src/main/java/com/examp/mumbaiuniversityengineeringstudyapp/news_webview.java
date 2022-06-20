@@ -27,7 +27,7 @@ public class news_webview extends AppCompatActivity {
         WebView wv = (WebView) findViewById(R.id.webview);
 
         // add your link here
-        wv.loadUrl("https://drive.google.com/drive/folders/1KZMDaED5UhlMkrC3Z5G-4GvzGcsirFWa?usp=sharing");
+        wv.loadUrl("https://drive.google.com/file/d/1vzKNGibfVDCQEYpWGkEs-BkYSLd_VUjf/view?usp=sharing");
         wv.setWebViewClient(new Client());
         WebSettings ws = wv.getSettings();
 

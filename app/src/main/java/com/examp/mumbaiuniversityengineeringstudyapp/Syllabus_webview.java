@@ -27,7 +27,7 @@ public class Syllabus_webview extends AppCompatActivity {
         WebView wv = (WebView) findViewById(R.id.webview);
 
         // add your link here
-        wv.loadUrl("https://drive.google.com/drive/folders/1KF68Xu1PfOR6Cka634CFVCmE1PwcSXI4?usp=sharing");
+        wv.loadUrl("https://drive.google.com/file/d/1vzKNGibfVDCQEYpWGkEs-BkYSLd_VUjf/view?usp=sharing");
         wv.setWebViewClient(new Client());
         WebSettings ws = wv.getSettings();
 
